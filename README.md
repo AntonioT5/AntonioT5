@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Antonio 👋</h1>
-<h3 align="center">Software Engineering & Information Systems student</h3>
+<!--<h3 align="center">Software Engineering & Information Systems student</h3> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineering+%26+Information+Systems+Student;Java+%7C+C%23+%7C+Python+%7C+Spring+Boot+%2F+.NET;Currently+grinding+NeetCode+150+for+internship+prep" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineering+%26+Information+Systems+Student" alt="Typing SVG" />
 </p>
 
 ---
@@ -23,17 +23,30 @@
 
 ### 🧰 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cs,py" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,django" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,docker,git,vscode,selenium" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>Languages</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java,cs,py" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frameworks</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=spring,dotnet,django" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases, DevOps & Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres,docker,git,vscode,selenium" /></td>
+  </tr>
+</table>
 
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+</p>
 
 ---
 
